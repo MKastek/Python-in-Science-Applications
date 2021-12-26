@@ -15,4 +15,6 @@ for element in elements:
     print(element.text)
 
 #time.sleep(5)
+
+#XPath
 driver.close()
